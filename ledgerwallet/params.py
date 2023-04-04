@@ -164,7 +164,7 @@ def main():
                 "type_": "BOLOS_TAG_DERIVEPATH",
                 "value": {
                     "curve": Curve.prime256r1 | Curve.ed25519,
-                    "paths": ["44'/535348'", "13'", "17'"],
+                    "paths": ["44'/784'","0'" "0'", "0'"],
                 },
             },
         ]
